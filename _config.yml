@@ -6,21 +6,21 @@ kramdown:
   input: GFM
 
 # 作者信息
-author: 
+author:
   name: sixgod
   email: yf6101008@163.COM
   link: https://github.com/iamsixer
   github: https://github.com/iamsixer
 
 # 站点信息
-title: sixgod的博客 
+title: sixgod的博客
 description: sixgod的博客
 url: https://github.com/iamsixer
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
 avatar: https://avatars3.githubusercontent.com/u/5754179?v=3&s=460
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+favicon: http://7xid3r.com1.z0.glb.clouddn.com/my64.ico
 
 # google analytics 设置
 #ga:
